@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -20,8 +17,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/3-TerrestrialGlobe-Ort-1.jpg"/>
 			<div>
-				<head>Replace with your title.</head>
-				<p>Replace with your text.</p></div>
+				<head>THe elementarie region is compaſſed and conteyned within the later Orbe of the planets, in which the moone holdeth her place. This region doth conſiſt of fovvre elements, of which the higheſt is called by the naturall philoſophers, fyre, the next after is called ayre, the third, vvater, and the fovvrthe, earth, of which the later do make together one round body.  And as to the view of the courteous reader hath beneſet dovvne in two half ſpheres the whole conſtitution &amp; order of all the fixed ſtarres, ſo in lyke manner is here pourtraited in other two half ſpheres the conſtitutions of the vvwhole earth, aſwel the partes habitable as the inhabitable. The former of vvwhich conteyneth the new diſcouered vvorld, vvwhich is called America, the later, the vvorld longeſt knovvne, &amp; by our ancestors inhabited, the vvhich is deuyded into three parts, Europa, Aſia, &amp; Africa. And becauſe there is mention made in the deſcriptions folowing of the different countries &amp; places, with their properties, ſuch particular deſcriptions are therefore heere omitted. To declare alſo the reaſons how the conioyned ſuperfices of the whole earth are to be deſigned in platforme, vvould bee ouerlong, wherefore ſuch as deſyre to vnderſtand it, may haue recours vnto the writings of Ptolomey Alexandrinas, as alſo of Næteryk, but eſspecialy to the comentaries of the moſte learned Gerardus Mercator, vpon Ptolomey his book of Geographie, &amp; to ſuch learned authors as thereof haue treated. </head></div>
 		</body>
 	</text>
 </TEI>
