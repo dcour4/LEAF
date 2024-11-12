@@ -795,4 +795,84 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader><text><body><pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/3-TerrestrialGlobe-Ort-1.jpg"/><div><head>THe elementarie region is compaſſed and conteyned within the later Orbe of the planets, in which the moone holdeth her place. This region doth conſiſt of fovvre elements, of which the higheſt is called by the naturall philoſophers, <rs type="natural element fire"><rs cert="high" type="fire"><rs type="natural element">fyre<note type="researchNote">The element of fire</note></rs></rs></rs>, the next after is called ayre<note type="researchNote">The element of air</note>, the third, vvater<note type="researchNote">The element of water</note>, and the fovvrthe, earth<note type="researchNote">Specifically, the element of earth</note>, of which the later do make together <placeName cert="low"><placeName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" sameAs="Earth" xml:space="default">one round body</placeName></placeName>.  And as to the view of the courteous reader hath beneſet dovvne in two half ſpheres the whole conſtitution &amp; order of all the fixed ſtarres, ſo in lyke manner is here pourtraited in other two half ſpheres the conſtitutions of the vvwhole earth, aſwel the partes habitable as the inhabitable. The former of vvwhich conteyneth the new diſcouered vvorld, vvwhich is called <placeName key="Americas" ref="http://www.wikidata.org/entity/Q828" cert="medium">America<precision match="@ref" precision="high"/></placeName>, the later, the vvorld longeſt knovvne, &amp; by our ancestors inhabited, the vvhich is deuyded into three parts, <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high">Europa<precision match="@ref" precision="high"/></placeName>, <placeName key="Asia" ref="http://www.wikidata.org/entity/Q48">Aſia</placeName>, &amp; <placeName key="Africa" ref="http://www.wikidata.org/entity/Q15" cert="high">Africa<precision match="@ref" precision="high"/></placeName>. And becauſe there is mention made in the deſcriptions folowing of the different countries &amp; places, with their properties, ſuch particular deſcriptions are therefore heere omitted. To declare alſo the reaſons how the conioyned ſuperfices of the whole <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> are to be deſigned in platforme, vvould bee ouerlong, wherefore ſuch as deſyre to vnderſtand it, may haue recours vnto the writings of <persName cert="medium" type="real">Ptolomey Alexandrinas</persName>, as alſo of Næteryk, but eſspecialy to the comentaries of the moſte learned <persName key="Gerardus Mercator" ref="http://www.wikidata.org/entity/Q6353" cert="high" role="ctg">Gerardus Mercator</persName>, vpon Ptolomey his book of Geographie, &amp; to ſuch learned authors as thereof haue treated. Ortelius, Abraham, 1527-1598. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: Iohn Norton, 1601. STC 18857. ProQuest, https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2. </head></div></body></text></TEI>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/dcour4/LEAF/main/LEAF%20Files%20for%20Students/3-TerrestrialGlobe.xml?rs_annotation_20241112172608013",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-12T22:26:08.013Z",
+	"dcterms:modified": "2024-11-12T22:26:08.013Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/dcour4",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Darren Cournoyer"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/dcour4/LEAF/main/LEAF%20Files%20for%20Students/3-TerrestrialGlobe.xml?rs_annotation_20241112172608013#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/dcour4/LEAF/main/LEAF%20Files%20for%20Students/3-TerrestrialGlobe.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/dcour4/LEAF/main/LEAF%20Files%20for%20Students/3-TerrestrialGlobe.xml?rs_annotation_20241112172608013#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/head/rs[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q2",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader><text><body><pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/3-TerrestrialGlobe-Ort-1.jpg"/><div><head>THe elementarie region is compaſſed and conteyned within the later Orbe of the planets, in which the moone holdeth her place. This region doth conſiſt of fovvre elements, of which the higheſt is called by the naturall philoſophers, <rs type="natural element fire"><rs cert="high" type="fire"><rs type="natural element">fyre<note type="researchNote">The element of fire</note></rs></rs></rs>, the next after is called ayre<note type="researchNote">The element of air</note>, the third, vvater<note type="researchNote">The element of water</note>, and the fovvrthe, earth<note type="researchNote">Specifically, the element of earth</note>, of which the later do make together <placeName cert="low"><placeName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" sameAs="Earth" xml:space="default">one round body</placeName></placeName>.  And as to the view of the courteous reader hath beneſet dovvne in two half ſpheres the whole conſtitution &amp; order of all the fixed ſtarres, ſo in lyke manner is here pourtraited in other two half ſpheres the conſtitutions of the vvwhole <rs key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth</rs>, aſwel the partes habitable as the inhabitable. The former of vvwhich conteyneth the new diſcouered vvorld, vvwhich is called <placeName key="Americas" ref="http://www.wikidata.org/entity/Q828" cert="medium">America<precision match="@ref" precision="high"/></placeName>, the later, the vvorld longeſt knovvne, &amp; by our ancestors inhabited, the vvhich is deuyded into three parts, <placeName key="Europe" ref="http://www.wikidata.org/entity/Q46" cert="high">Europa<precision match="@ref" precision="high"/></placeName>, <placeName key="Asia" ref="http://www.wikidata.org/entity/Q48">Aſia</placeName>, &amp; <placeName key="Africa" ref="http://www.wikidata.org/entity/Q15" cert="high">Africa<precision match="@ref" precision="high"/></placeName>. And becauſe there is mention made in the deſcriptions folowing of the different countries &amp; places, with their properties, ſuch particular deſcriptions are therefore heere omitted. To declare alſo the reaſons how the conioyned ſuperfices of the whole <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> are to be deſigned in platforme, vvould bee ouerlong, wherefore ſuch as deſyre to vnderſtand it, may haue recours vnto the writings of <persName cert="medium" type="real">Ptolomey Alexandrinas</persName>, as alſo of Næteryk, but eſspecialy to the comentaries of the moſte learned <persName key="Gerardus Mercator" ref="http://www.wikidata.org/entity/Q6353" cert="high" role="ctg">Gerardus Mercator</persName>, vpon Ptolomey his book of Geographie, &amp; to ſuch learned authors as thereof haue treated. Ortelius, Abraham, 1527-1598. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: Iohn Norton, 1601. STC 18857. ProQuest, https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2. </head></div></body></text></TEI>
